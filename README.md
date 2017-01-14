@@ -1,5 +1,5 @@
-#Week 3 Project
-##All rights are reserved by original author or authors or ross
+#Car Location Monitoring System
+##All rights are reserved by Xiaobo Liu
 
 ##Service Start Sequence
 1. docker-compose up
